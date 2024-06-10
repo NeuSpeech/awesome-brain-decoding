@@ -5,7 +5,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox/awesome-clothed-human)  -->
 
-> A curated collection of resources on brain decoding: brain to text, brain to image, brain to video, brain to audio, brain to music, etc.  
+> A curated collection of resources in brain decoding, including interaction with multi-modalities, theories, and foundation models.
 
 ## Contributing
 
