@@ -20,17 +20,17 @@ Short description
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Data](link)]
 ```
 
-Table of Contents	
-- [Brain-to-text](#Brain-to-text)
+<details><summary>Table of Contents</summary><p>	
+
+- [Brain to text](#brain-to-text)
 - [Brain-to-image](#brain-to-image)
-- [Foundation models](#Foundation models)
+- [Foundation models](#foundation-models)
 - [Theories](#theory)
 - [Team and People](#team-and-people)
 - [Datasets](#dataset)
-- [Applications](#applications)
+</p></details><p></p>
 
-
-## Brain-to-text
+## Brain to text
 
 ### EEG
 **Open Vocabulary Electroencephalography-to-Text Decoding and Zero-Shot Sentiment Classification**<br>
@@ -143,7 +143,7 @@ Nature Neuroscience 2023
 [[Data-Tang2023](https://openneuro.org/datasets/ds004510)]
 [[Code](https://github.com/HuthLab/semantic-decoding)]
 
-## brain-to-image
+## Brain-to-image
 
 ### EEG
 **Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion.**<br>
@@ -241,7 +241,7 @@ ICLR 2024.
 Arxiv 2024.
 [[PDF](https://arxiv.org/pdf/2405.14055)]
 
-## Team and People 
+## Team and People
 
 - [NCC lab](https://github.com/ncclab-sustech), **SUSTech**, by [Quanying Liu](https://www.sustech.edu.cn/zh/faculties/liuquanying.html).
 - [Computational Cognitive and Translational Neuroscience Lab](https://yuanningli.github.io/), **ShanghaiTech**, by [Yuanning Li](https://yuanningli.github.io/).
