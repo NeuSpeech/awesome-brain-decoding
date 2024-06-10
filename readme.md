@@ -20,15 +20,15 @@ Short description
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Data](link)]
 ```
 
-<details><summary>Table of Contents</summary><p>
-	
+Table of Contents	
 - [Brain-to-text](#Brain-to-text)
 - [Brain-to-image](#brain-to-image)
+- [Foundation models](#Foundation models)
+- [Theories](#theory)
 - [Team and People](#team-and-people)
-- [Dataset](#dataset)
+- [Datasets](#dataset)
 - [Applications](#applications)
 
-</p></details><p></p>
 
 ## Brain-to-text
 
