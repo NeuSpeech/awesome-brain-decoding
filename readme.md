@@ -23,7 +23,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 ## Table of Contents
 
 - [Brain to text](#brain-to-text)
+- [Brain to speech](#brain-to-speech)
+- [Brain to music](#brain-to-music)
 - [Brain-to-image](#brain-to-image)
+- [Brain-to-video](#brain-to-video)
 - [Foundation models](#foundation-models)
 - [Theories](#theory)
 - [Team and People](#team-and-people)
@@ -54,17 +57,6 @@ IJCAI workshop 2024
 
 
 ### MEG
-**Decoding speech perception from non-invasive brain recordings**<br>
-*Alexandre Défossez, Charlotte Caucheteux, Jérémy Rapin, Ori Kabeli, Jean-Rémi King*<br>
-Nature Machine Intelligence 2023
-. Decode M/EEG to speech with proposed brain module, trained with CLIP. M/EEG input to the brain module and get features, 
-only choose sentence from candidates, not generate.
-[[PDF](https://www.nature.com/articles/s42256-023-00714-5)]
-[MEG [Data-Gwilliams](https://osf.io/ag3kj/)]
-[MEG [Data-Schoffelen](https://data.ru.nl/collections/di/dccn/DSC_3011020.09_236)]
-[EEG [Data-Broderick](https://datadryad.org/stash/dataset/doi:10.5061/dryad.070jc)]
-[EEG [Data-Brennan](https://deepblue.lib.umich.edu/data/concern/data_sets/bg257f92t)]
-[[Code](https://github.com/facebookresearch/brainmagick)]
 
 **NeuSpeech: Decode Neural signal as Speech**<br>
 *Yiqian Yang\*, Yiqun Duan\*,  Qiang Zhang, Hyejeong Jo, Jinni Zhou, Won Hee Lee, Renjing Xu, Hui Xiong*<br>
@@ -143,6 +135,67 @@ Nature Neuroscience 2023
 [[Data-Tang2023](https://openneuro.org/datasets/ds004510)]
 [[Code](https://github.com/HuthLab/semantic-decoding)]
 
+**Decoding Continuous Character-based Language from Non-invasive Brain Recordings**<br>
+*Cenyuan Zhang, Xiaoqing Zheng, Ruicheng Yin, Shujie Geng, Jianhan Xu, Xuan Gao, Changze Lv, Zixuan Ling, Xuanjing Huang, Miao Cao, Jianfeng Feng*<br>
+Arxiv 2024.
+[[PDF](https://arxiv.org/pdf/2403.11183)]
+
+
+
+## Brain-to-speech
+
+### MEG
+**Decoding speech perception from non-invasive brain recordings**<br>
+*Alexandre Défossez, Charlotte Caucheteux, Jérémy Rapin, Ori Kabeli, Jean-Rémi King*<br>
+Nature Machine Intelligence 2023
+. Decode M/EEG to speech with proposed brain module, trained with CLIP. M/EEG input to the brain module and get features, 
+only choose sentence from candidates, not generate.
+[[PDF](https://www.nature.com/articles/s42256-023-00714-5)]
+[MEG [Data-Gwilliams](https://osf.io/ag3kj/)]
+[MEG [Data-Schoffelen](https://data.ru.nl/collections/di/dccn/DSC_3011020.09_236)]
+[EEG [Data-Broderick](https://datadryad.org/stash/dataset/doi:10.5061/dryad.070jc)]
+[EEG [Data-Brennan](https://deepblue.lib.umich.edu/data/concern/data_sets/bg257f92t)]
+[[Code](https://github.com/facebookresearch/brainmagick)]
+
+### EMG
+
+**A Cross-Modal Approach to Silent Speech with LLM-Enhanced Recognition**<br>
+*Tyler Benster, Guy Wilson, Reshef Elisha, Francis R Willett, Shaul Druckmann*<br>
+Arxiv 2024.
+[[PDF](https://arxiv.org/pdf/2403.05583v1)]
+
+### EEG
+
+**End-to-end translation of human neural activity to speech with a dual–dual generative adversarial network**<br>
+*Yina Guo\*, Ting Liu\*, Xiaofei Zhang\*, Anhong Wang, Wenwu Wang*<br>
+Knowledge-Based Systems 2023.
+[[PDF](https://www.sciencedirect.com/science/article/pii/S0950705123005877)]
+[[Code](https://github.com/qwe1218088/dual-dualgan)]
+
+### fMRI
+
+**Open-vocabulary Auditory Neural Decoding Using fMRI-prompted LLM**<br>
+*Xiaoyu Chen, Changde Du, Liu Che, Yizhe Wang, Huiguang He*<br>
+Arxiv 2024.
+[[PDF](https://arxiv.org/abs/2405.07840)]
+[MEG [Data-Gwilliams](https://osf.io/ag3kj/)]
+
+## Brain-to-music
+
+### fMRI
+**BRAIN2MUSIC: RECONSTRUCTING MUSIC FROM HUMAN BRAIN ACTIVITY**<br>
+*Timo I. Denk\*, Yu Takagi\*, Takuya Matsuyama, Andrea Agostinelli, Tomoya Nakai, Christian Frank, Shinji Nishimoto*<br>
+ICLR 2024.
+[[PDF](https://arxiv.org/pdf/2307.11078)]
+[[Data-Nakai2022](https://openneuro.org/datasets/ds003720/versions/1.0.0)]
+
+### ECoG
+**Music can be reconstructed from human auditory cortex activity using nonlinear decoding models**<br>
+*Bellier, Anaïs Llorens, Déborah Marciano, Aysegul Gunduz, Gerwin Schalk, Peter Brunner, Robert T. Knight *<br>
+PLOS 2023.
+[[PDF](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002176&utm_source=ASOTU&utm_medium=email&utm_campaign=483-connecting-connections)]
+
+
 ## Brain-to-image
 
 ### EEG
@@ -178,15 +231,6 @@ Nature scientific reports 2023.
 [[PDF](https://www.nature.com/articles/s41598-023-42891-8)]
 [[Data-NSD](https://naturalscenesdataset.org/)]
 
-**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity.**<br>
-*Zijiao Chen\*,  Jiaxin Qing\*, Juan Helen Zhou*<br>
-NeurIPS 2023.
-[[PDF](https://www.nature.com/articles/s41598-023-42891-8)]
-[[Project](https://mind-video.com/)]
-[[Code](https://github.com/jqin4749/MindVideo)]
-[[Data-HCP Young Adult](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)]
-[[Data-Wen](https://purr.purdue.edu/publications/2809/1)]
-
 
 **Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding .**<br>
 *Zijiao Chen\* Jiaxin Qing\*, Tiange Xiang, Wan Lin Yue, Juan Helen Zhou*<br>
@@ -206,6 +250,17 @@ Arxiv 2024.
 [[Project](https://weihaox.github.io/UMBRAE/)]
 [[Code](https://github.com/weihaox/UMBRAE)]
 [[Data-NSD](https://naturalscenesdataset.org/)]
+
+## Brain-to-video
+
+**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity.**<br>
+*Zijiao Chen\*,  Jiaxin Qing\*, Juan Helen Zhou*<br>
+NeurIPS 2023.
+[[PDF](https://www.nature.com/articles/s41598-023-42891-8)]
+[[Project](https://mind-video.com/)]
+[[Code](https://github.com/jqin4749/MindVideo)]
+[[Data-HCP Young Adult](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)]
+[[Data-Wen](https://purr.purdue.edu/publications/2809/1)]
 
 
 ## Foundation models
