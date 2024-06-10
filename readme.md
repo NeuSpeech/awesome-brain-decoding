@@ -20,7 +20,7 @@ Short description
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Data](link)]
 ```
 
-<details><summary>Table of Contents</summary><p>	
+## Table of Contents
 
 - [Brain to text](#brain-to-text)
 - [Brain-to-image](#brain-to-image)
@@ -28,7 +28,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 - [Theories](#theory)
 - [Team and People](#team-and-people)
 - [Datasets](#dataset)
-</p></details><p></p>
+
 
 ## Brain to text
 
