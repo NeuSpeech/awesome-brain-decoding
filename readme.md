@@ -11,7 +11,7 @@
 
 Feedback and contributions are welcome! 
 If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), 
-feel free to raise issues.
+feel free to raise issues and pull requests.
 
 ```Markdown
 **Here is the Paper Name.**<br>
