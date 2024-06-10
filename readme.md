@@ -304,6 +304,8 @@ Arxiv 2024.
 - [Meta/CNRS](https://ai.meta.com/), **École Normale Supérieure**, by [Jean-Remi King](https://kingjr.github.io/).
 - [Neural Prosthetics Translational Laboratory](https://nptl.stanford.edu/), **Stanford University**, by [Jaimie Henderson](https://profiles.stanford.edu/jaimie-henderson).
 - [HuthLab](https://www.cs.utexas.edu/~huth/), **The University of Texas at Austin**, by [Alexander G. Huth](https://www.cs.utexas.edu/people/faculty-researchers/alexander-huth).
+- [Nishimoto Lab](https://nishimotolab.org/), **Osaka University**, by [Shinji Nishimoto](https://cinet.jp/english/people/20141086/).
+- [Research and Development Center for Large Language Models](https://nishimotolab.org/), **National Institute of Informatics**, by [Yu Takagi](https://yu-takagi.github.io/).
 
 
 ## Dataset
