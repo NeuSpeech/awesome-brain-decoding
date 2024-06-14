@@ -339,6 +339,7 @@ Arxiv 2024.
 - [Research and Development Center for Large Language Models](https://nishimotolab.org/), **National Institute of Informatics**, by [Yu Takagi](https://yu-takagi.github.io/).
 - [ISTBI](https://istbi.fudan.edu.cn/), **Fudan University**, by [Jianfeng FENG](https://istbi.fudan.edu.cn/lnen/info/1157/1629.htm).
 - [ZNLP](https://nlpr.ia.ac.cn/cip/introduction.htm), **CASIA**, by some researchers [Shaonan WANG](https://wangshaonan.github.io/),[Jingyuan SUN](https://openreview.net/profile?id=~Jingyuan_Sun1).
+- [State Key Laboratory of Management and Control for Complex Systems](http://english.ia.cas.cn/rd/202004/t20200415_234810.html), **Chinese Academy of Sciences and ShanghaiTech University**, by [Huiguang He](https://people.ucas.ac.cn/~hehuiguang?language=en).
 
 
 ## Dataset
