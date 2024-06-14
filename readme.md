@@ -79,11 +79,6 @@ Arxiv 2024
 
 ### ECoG
 
-**Speech synthesis from neural decoding of spoken sentences.**<br>
-*Gopala K. Anumanchipalli\*, Josh Chartier\*, Edward F. Chang.*<br> 
-Withdrawn recently.
- Nature. 2019 April 
-[[PDF](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC9714519&blobtype=pdf)] 
 
 **High-performance brain-to-text communication via handwriting**<br>
 *Francis R. Willett, Donald T. Avansino, Leigh R. Hochberg, Jaimie M. Henderson, Krishna V. Shenoy*<br>
@@ -143,6 +138,36 @@ Arxiv 2024.
 
 
 ## Brain-to-speech
+
+### ECoG
+**Speech synthesis from neural decoding of spoken sentences.**<br>
+*Gopala K. Anumanchipalli\*, Josh Chartier\*, Edward F. Chang.*<br> 
+Withdrawn recently.
+ Nature. 2019 April 
+[[PDF](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC9714519&blobtype=pdf)] 
+
+**Subject-Agnostic Transformer-Based Neural Speech Decoding from Surface and Depth Electrode Signals.**<br>
+*Junbo Chen, Xupeng Chen, Ran Wang, Chenqian Le, Amirhossein Khalilian-Gourtani, Erika Jensen, Patricia Dugan, Werner Doyle, Orrin Devinsky, Daniel Friedman, Adeen Flinker, and Yao Wang*<br>
+bioRxiv. Preprint. 2024 Mar 14.
+[[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10980022/)] 
+
+**A neural speech decoding framework leveraging deep learning and speech synthesis.**<br>
+*Xupeng Chen, Ran Wang, Amirhossein Khalilian-Gourtani, Leyao Yu, Patricia Dugan, Daniel Friedman, Werner Doyle, Orrin Devinsky, Yao Wang, Adeen Flinker*
+Nature Machine Intelligence 2024
+[[PDF](https://www.nature.com/articles/s42256-024-00824-8)] 
+[[Data-Chen2024](https://data.mendeley.com/datasets/fp4bv9gtwk/2)]
+[[Code](https://github.com/flinkerlab/neural_speech_decoding)]
+
+
+**Reverse the auditory processing pathway: Coarse-to-fine audio reconstruction from fMRI.**<br>
+*Che Liu, Changde Du, Xiaoyu Chen, Huiguang He*
+Arxiv 2024  Short as C2F-LDM
+[[PDF](https://arxiv.org/pdf/2405.18726)] 
+[[Data- Brain2Sound]()]
+[[Data- Brain2Music]()]
+[[Data- Brain2Speech]()]
+[[Data- Brain2Sound]()]
+
 
 ### MEG
 **Decoding speech perception from non-invasive brain recordings**<br>
@@ -295,6 +320,12 @@ ICLR 2024.
 *Richard J. Antonello, Nihita Sarma, Jerry Tang, Jiaru Song, Alexander G. Huth*<br>
 Arxiv 2024.
 [[PDF](https://arxiv.org/pdf/2405.14055)]
+
+**The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning.**<br>
+*Richard J. Antonello, Nihita Sarma, Jerry Tang, Jiaru Song, Alexander G. Huth*<br>
+Arxiv 2024.
+
+[[PDF](https://arxiv.org/abs/2406.04328)]
 
 ## Team and People
 
