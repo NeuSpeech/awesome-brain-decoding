@@ -281,7 +281,7 @@ Arxiv 2024.
 **Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity.**<br>
 *Zijiao Chen\*,  Jiaxin Qing\*, Juan Helen Zhou*<br>
 NeurIPS 2023.
-[[PDF](https://www.nature.com/articles/s41598-023-42891-8)]
+[[PDF](https://arxiv.org/pdf/2305.11675)]
 [[Project](https://mind-video.com/)]
 [[Code](https://github.com/jqin4749/MindVideo)]
 [[Data-HCP Young Adult](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)]
