@@ -1,57 +1,185 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>脑科学机构展示</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: url('path/to/your/cool-background.jpg') no-repeat center center fixed;
-            background-size: cover;
-            color: white;
-            text-align: center;
-        }
-        .header {
-            padding: 20px;
-            background-color: rgba(0, 0, 0, 0.5); /* 半透明背景 */
-        }
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-            gap: 20px;
-            padding: 20px;
-        }
-        .grid-item {
-            position: relative;
-            overflow: hidden;
-            cursor: pointer;
-            transition: transform 0.3s;
-        }
-        .grid-item img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-        .grid-item:hover {
-            transform: scale(1.2);
-        }
-    </style>
-</head>
 <body>
     <div class="header">
-        <h1>欢迎来到脑科学机构展示</h1>
-        <p>探索各大机构的最新研究与技术</p>
+        <h1>脑科学与智能技术前沿</h1>
+        <p>探索中国领先的脑机接口研究机构</p>
     </div>
     <div class="grid-container">
-        <div class="grid-item" onclick="window.open('https://example.com', '_blank')">
-            <img src="path/to/logo1.png" alt="机构1">
+        <div class="card" onclick="window.open('https://brain.tsinghua.edu.cn/', '_blank')">
+            <div class="card-image">
+                <img src="website_assets/清华脑与智能实验室.png" alt="清华脑与智能实验室">
+            </div>
+            <div class="card-content">
+                <h3>清华大学脑与智能实验室</h3>
+                <p class="description">洪波教授领衔，致力于脑机接口和神经工程研究的前沿实验室，在半侵入式脑机接口领域取得重要突破。</p>
+                <div class="tags">
+                    <span class="tag">脑机接口</span>
+                    <span class="tag">神经工程</span>
+                </div>
+            </div>
         </div>
-        <div class="grid-item" onclick="window.open('https://example.com', '_blank')">
-            <img src="path/to/logo2.png" alt="机构2">
+        <div class="card" onclick="window.open('https://mcgovern.life.tsinghua.edu.cn/ch/infoshow-2175.html', '_blank')">
+            <div class="card-image">
+                <img src="website_assets/品驰脑起搏器.png" alt="神经调控国家工程研究中心">
+            </div>
+            <div class="card-content">
+                <h3>神经调控国家工程研究中心</h3>
+                <p class="description">由清华大学牵头建设的国家级研究中心，致力于神经调控技术创新与转化研究。在脑起搏器、迷走神经刺激器等多个领域实现重大突破，产品国内占比超60%。</p>
+                <div class="tags">
+                    <span class="tag">神经调控</span>
+                    <span class="tag">医疗器械</span>
+                </div>
+            </div>
         </div>
-        <!-- 继续添加更多的格子 -->
+        <div class="card" onclick="window.open('http://www.bbmi.zju.edu.cn/2020/0117/c41848a1957379/page.htm', '_blank')">
+            <div class="card-image">
+                <img src="website_assets/浙江大学脑机接口wangyueming.png" alt="浙江大学双脑中心">
+            </div>
+            <div class="card-content">
+                <h3>浙江大学双脑中心</h3>
+                <p class="description">完成国内首例植入式脑机接口临床转化研究，实现患者通过大脑运动皮层信号精准控制机械臂与机械手在三维空间运动，首次证明高龄患者可以利用植入式脑机接口进行复杂运动控制。</p>
+                <div class="tags">
+                    <span class="tag">植入式</span>
+                    <span class="tag">运动控制</span>
+                </div>
+            </div>
+        </div>
+        <div class="card" onclick="window.open('https://www2.scut.edu.cn/bci/', '_blank')">
+            <div class="card-image">
+                <img src="assets\华南理工大学脑机接口与脑信息处理中心脑控轮椅控制系统.png" alt="华南理工大学脑机接口与脑信息处理中心">
+            </div>
+            <div class="card-content">
+                <h3>华南理工大学脑机接口与脑信息处理中心</h3>
+                <p class="description">在多模态脑机接口领域取得重要突破，研发了脑控轮椅、护理床等多个应用系统，显著提高了高位截瘫患者的生活自理能力。</p>
+                <div class="tags">
+                    <span class="tag">多模态</span>
+                    <span class="tag">康复医疗</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="card" onclick="window.open('https://www.neuroxess.com/', '_blank')">
+            <div class="card-image">
+                <img src="website_assets/脑虎.png" alt="脑虎科技">
+            </div>
+            <div class="card-content">
+                <h3>脑虎科技</h3>
+                <p class="description">专注于微创植入式高通量柔性脑机接口系统研发，实现了猕猴脑控步态重建。</p>
+                <div class="tags">
+                    <span class="tag">植入式</span>
+                    <span class="tag">柔性电极</span>
+                </div>
+            </div>
+        </div>
+        <!-- 继续添加更多卡片 -->
+        <div class="card" onclick="window.open('', '_blank')">
+            <div class="card-image">
+                <img src="website_assets/brain_research.png" alt="加你的">
+            </div>
+            <div class="card-content">
+                <h3>加入你自己的研究机构</h3>
+                <p class="description">让更多人看到你的研究机构</p>
+                <div class="tags">
+                    <span class="tag">你自己的</span>
+                    <span class="tag">DIY</span>
+                </div>
+            </div>
+        </div>
     </div>
 </body>
-</html>
+
+<style>
+    body {
+        margin: 0;
+        font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+        background: linear-gradient(135deg, #1a1a1a, #2d2d2d);
+        color: white;
+        min-height: 100vh;
+        overflow-y: auto;
+    }
+
+    .header {
+        padding: 60px 20px;
+        background: rgba(0, 0, 0, 0.3);
+        margin-bottom: 40px;
+    }
+
+    .header h1 {
+        font-size: 2.5em;
+        margin: 0;
+        font-weight: 600;
+    }
+
+    .header p {
+        font-size: 1.2em;
+        margin-top: 10px;
+        color: #cccccc;
+    }
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 30px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .card {
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: 15px;
+        overflow: hidden;
+        transition: transform 0.3s, box-shadow 0.3s;
+        cursor: pointer;
+    }
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    }
+
+    .card-image {
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+
+    .card-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.3s;
+    }
+
+    .card:hover .card-image img {
+        transform: scale(1.1);
+    }
+
+    .card-content {
+        padding: 20px;
+    }
+
+    .card-content h3 {
+        margin: 0 0 10px 0;
+        font-size: 1.4em;
+    }
+
+    .description {
+        color: #cccccc;
+        font-size: 0.9em;
+        line-height: 1.5;
+        margin-bottom: 15px;
+    }
+
+    .tags {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    .tag {
+        background: rgba(255, 255, 255, 0.1);
+        padding: 4px 12px;
+        border-radius: 20px;
+        font-size: 0.8em;
+    }
+</style>
