@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>脑科学机构展示</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: url('path/to/your/cool-background.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: white;
+            text-align: center;
+        }
+        .header {
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.5); /* 半透明背景 */
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        .grid-item {
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        .grid-item img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .grid-item:hover {
+            transform: scale(1.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>欢迎来到脑科学机构展示</h1>
+        <p>探索各大机构的最新研究与技术</p>
+    </div>
+    <div class="grid-container">
+        <div class="grid-item" onclick="window.open('https://example.com', '_blank')">
+            <img src="path/to/logo1.png" alt="机构1">
+        </div>
+        <div class="grid-item" onclick="window.open('https://example.com', '_blank')">
+            <img src="path/to/logo2.png" alt="机构2">
+        </div>
+        <!-- 继续添加更多的格子 -->
+    </div>
+</body>
+</html>

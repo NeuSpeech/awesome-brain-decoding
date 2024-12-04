@@ -1,0 +1,206 @@
+中	  |  	EN
+
+教师主页
+团队成员
+科研项目
+学术成果
+新闻动态
+加入我们
+NCC lab 感兴趣的问题如下：
+1、大规模脑模型如何构建：
+       一般而言，构建scalable大脑模型有两条技术路线：一条是自下而上，用上百万或上亿个HH模型或LIF模型组合而成；一条是自上而下，用LLM的思路，来拟合大规模神经数据，学习大脑表征，而不管底层神经生物学机制。
+       两条路都极其耗资源。哪一条更有前景？更有科研和应用价值？
+
+2、大脑大规模预训练：
+       如何基于神经时序动态数据，训练大脑预训练模型，训练出来有什么用？能代表大脑吗(数据集？模型？代理任务？下游任务？) 大规模预训练的大语言模型和多模态模型上表现的性质是否在大脑中也存在，如何启发我们对大脑预训练模型的设计？基于神经数据训练的pre-trained大模型，能干嘛，这类模型如何帮助我们理解大脑信息表征机制？
+
+3、大脑多模态、跨尺度数据融合建模：
+       大脑系统涉及多个空间尺度，从基因到单个神经元，从神经元群到各个脑区，从各个脑区到整个大脑，最后再到行为。一个尺度下的改变如何对其它尺度产生影响？如何融合多尺度信息建模才能更好得描述大脑系统？
+
+4、大脑的最优刺激与调控：
+       视觉、文本、声音等等作为input给AI，并预测AI的输出，是很容易的；而大脑往往是通过传感器（photorecptor，hair cell）来转化成神经信号。自然刺激（视觉、听觉、触觉、嗅觉、味觉）和物理刺激（tES、TMS、tUS）对大脑的作用上有什么本质区别？如何构建大脑的输入-输出关系的模型？如何为大脑设计最优的刺激（自然刺激或者物理刺激），以最大化神经元活动、或最大化大脑的某个功能？
+
+5、神经、认知与行为的因果推断：
+       之前的生物学家或者心理学家都是围绕一个或几个hypothesis来设计可操控参数的in-lab实验，可以研究特定的某个环路、或某种心理、某种行为，可以探索特定控制变量与观测结果之间的因果关系，但缺乏整体视角。如何利用大规模记录的数据，构建神经与认知、认知与行为的因果关系？如何从相关中挖掘出因果（from association to causality)？
+
+6、大脑与AI学习机制的异同：
+       AI往往针对特定任务设计loss function，利用error backpropagation进行学习；而大脑是很多个任务的整体优化，受限于大脑的结构、空间、能量等等约束。大脑能否用BP算法进行学习，为什么？AI的多任务学习与迁移学习等方式是否可进一步从大脑获得启发？AI和大脑在任务学习尤其是多任务等复杂场景中的学习存在哪些区别？AI通过数据驱动的学习方式通常是被动学习，不会与环境数据进行交互，这与大脑主动学习的方式存在哪些区别？AI中强化学习，主动学习等方式能否进一步从大脑中获得启发？
+
+ 
+
+有意者，请把CV和个人称述发送至邮箱: liuqy@sustech.edu.cn
+
+-- CV：请包含本科和硕士背景、5-6门core courses及分数、研究经历、掌握的技术、publications（如果论文尚没有发表，可以先发一个writting sample）
+
+-- 个人称述：请针对以上六个NCC lab感兴趣的问题中的任何一个进行展开讨论
+
+-- 邮件名称为：姓名-2024年博士(硕士)申请
+
+Copyright © 2018 All Rights Reserved.
+
+
+南方科技大学
+师资
+EN       返回上一级       师资搜索
+刘泉影
+助理教授
+liuqy@sustech.edu.cn
+
+个人主页
+       刘泉影博士，2019年9月加入南方科技大学，生物医学工程系助理教授，博士生导师，神经计算与控制实验室（NCC lab）负责人。刘泉影博士毕业于瑞士苏黎世联邦理工（ETH Zurich）生物医学工程方向，在美国加州理工学院（Caltech）进行计算与数学科学方向的博士后训练。
+
+       刘泉影博士专注于类脑智能、多模态神经信号处理算法、脑网络动力学建模、神经优化控制。提出了高通道脑电溯源算法，解决了脑电溯源精度不高、位置不准、静息态脑网络无法有效提取的问题；提出了数据驱动的脑网络动力学建模方法，建立基于控制理论的神经刺激优化框架，解决大脑控制不准、控制不住的问题。
+
+       近5年，刘泉影在脑科学、人工智能、控制的交叉领域以一作或通讯作者身份发表SCI/EI学术论文40余篇，包括The Innovation, Neuroimage, Pattern Recognition, IEEE会刊等国际权威期刊，及NeurIPS, IJCAI, ACC等机器学习和控制顶会；译著《认知和行为的计算建模》；Google Scholar显示总引用2000余次，H因子23。申请专利12项；担任IEEE期刊IEEE J TRANSL ENG HE副主编、中国神经科学学会计算神经科学专委会委员、中国神经科学学会神经调控分会理事、中国人工智能学会脑机融合与生物机器智能专委会委员、中国生物医学工程学会医学人工智能专委会青年委员、深圳市电子学会新一代人工智能专委会秘书；讲授《机器学习与医学工程应用》、《人脑智能与机器智能》等课程。
+
+       NCC lab研究集中在机器学习算法、多模态神经信号处理、神经计算建模、神经调控、医学人工智能。结合动力学系统模型和深度学习模型研究神经信号表征，以探索大脑的计算机制，用于解释神经信号、大脑功能和人类行为三者之间的关系。
+
+       NCC lab长期招收硕士生、博士生、博士后、研究助理（RA）、访问学者、访问本科生。博士申请者要求先来NCC lab访问或做RA，通过考核，方可录用。
+
+      （请感兴趣的申请者把CV和personal statement发邮件给刘泉影老师）
+
+ 
+
+研究方向
+
+1）机器学习算法（深度生成模型、流形学习、图模型）
+
+2）神经计算建模（神经表征、脑网络动力学）
+
+3）多模态神经数据融合算法（DTI、fMRI、EEG、SEEG）
+
+4）网络控制理论（Network control theory）
+
+5）神经反馈控制（TMS、tDCS/tACS，Neurofeedback）
+
+6）双向脑机接口（脑到机、机到脑）
+
+ 
+
+教育经历
+
+2013-2017   博士，瑞士苏黎世联邦理工学院，健康科学与技术学院。导师：Nicole Wenderoth, Dante Mantini
+
+2010-2013   硕士，中国兰州大学，信息科学与工程学院，计算机软件与理论。导师：胡斌教授
+
+2006-2010   本科，中国兰州大学，信息科学与工程学院，电子信息科学与技术。
+
+ 
+
+研究经历
+
+2019.08 -     助理教授 (博导)，南方科技大学，神经计算与控制实验室PI
+
+2017-2019   博士后，美国加州理工学院，计算与数学科学学院 。导师: Dr. John Doyle
+
+2017-2019   研究员，美国亨廷顿医学研究中心
+
+2016-2017   访问学者，比利时鲁汶大学，运动控制与神经可塑性实验室
+
+2014-2015  访问学者，英国牛津大学，实验心理学院
+
+ 
+
+研究项目
+
+2021.01-2023.12   国家自然科学基金青年科学基金项目 (主持)
+
+2022.01-2025.12 科技部国家重点研发计划生物与信息融合专项项目（骨干）
+
+2021.01-2022.12   深圳市科创委稳定支持计划面上项目 (主持)
+
+2021.07-2023.06   深港澳科技计划（C类）项目 (主要参与人)
+
+2021.01-2022.12   深圳市科创委可持续发展科技专项项目 (主要参与人)
+
+2021.09-2022.09   教育部“港澳与内地大中小师生交流计划大学生项目” (主持)
+
+2020.01-2022.12   广东省基础与应用基础研究基金项目 (主持)
+
+2020.01-2020.12   广东省研究生学术论坛基金 (主持)
+
+2018-2021    比利时FWO Fellowship (主持，3 years，因回国而放弃)
+
+2017-2019    美国Boswell Postdoctoral Fellowship (主持，完成)
+
+2015-2017    瑞士Swiss National Science Foundation for Doc.Mobility grant (主持，完成)
+
+2014-2015    瑞士Swiss National Science Foundation for Mobility grant (主持，完成)
+
+ 
+
+获奖
+
+深圳市孔雀人才计划C类；
+
+AAIC travel award (2019)；
+
+Estes Stars Award (2018)
+
+ 
+
+
+研究方向及代表性论文
+
+方向1、机器学习算法（Machine learning algorithms）：基于深度学习、生成模型、流形学习等方法，研究人脑智能与人工智能的关系
+
+1) X Ran*, M Xu, L Mei, Q Xu, Liu Q*. (2021), Detecting Out-of-distribution Samples via Variational Auto-encoder with Reliable Uncertainty Estimation, Neural Networks
+
+2) X Ran, M Xu, Q Xu, H Zhou, Liu A*, Liu Q*. (2020), Bigeminal Priors Variational auto-encoder, arXiv:2010.01819
+
+3) Yin W, Ma Z, Liu Q*. (2021), Riemannian Manifold Optimization for Discriminant Subspace Learning, arXiv:2101.08032
+
+4) Yin W, Ma Z, Liu Q*. (2021), HyperNTF: A Hypergraph Regularized Nonnegative Tensor Factorization for Dimensionality Reduction, arXiv:2101.06827
+
+ 
+
+方向2、深度学习在神经科学与神经信号处理中的应用（Deep learning for Neuroscience）：将深度学习应用于脑电去噪、脑源定位、脑网络辨识、脑疾病诊断等等
+
+5) Zhang H#, Zhao M#, Li Z, Mantini D, Wei C, Liu Q*. (2021), EEGdenoiseNet: A benchmark dataset for deep learning solutions of EEG denoising, Journal of Neural Engineering
+
+6) H Zhang, C Wei, M Zhao, H Wu, Q Liu*. (2021). A novel convolutional neural network model to remove muscle artifacts from EEG, 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+
+7) C Wei, K Lou, Z Wang, M Zhao, D Mantini, Q Liu*. (2021). Edge Sparse Basis Network: A Deep Learning Framework for EEG Source Localization, IJCNN.
+
+8) Liu Q, Wu H, Liu A (2019). Modeling and Interpreting Real-world Human Risk Decision Making with Inverse Reinforcement Learning, Real-world Sequential Decision Making workshop at the 36th International Conference on Machine Learning (ICML).
+
+9) J Yuan, X Ran, K Liu, C Yao, Y Yao, H Wu, Q Liu*. (2021). Machine Learning Applications on Neuroimaging for Diagnosis and Prognosis of Epilepsy: A Review, arXiv:2102.03336
+
+ 
+
+方向3、控制理论用于脑网络控制（Control theory for Brain network control）：利用优化控制理论、网络控制理论，反向工程神经的控制原理，提出新的神经反馈优化控制算法
+
+10) Nakahira Y, Liu Q, Sejnowski T, Doyle J.C. (2021), Diversity-enabled sweet spots in layered architectures and speed-accuracy trade-offs in sensorimotor control, PNAS
+
+11) Z Liang, Z Luo, K Liu, J Qiu, Q Liu*, (2021). Deep Koopman-operator based model predictive control for closed-loop electrical neurostimulation in epilepsy, arXiv:2103.14321
+
+12) Nakahira Y#, Liu Q#, Sejnowski T, Doyle J.C. (2019), Fitts' Law for speed-accuracy trade-off describes a diversity-enabled sweet spot in sensorimotor control, https://arxiv.org/pdf/1906.00905.pdf (# co-first author)
+
+13) Liu Q, C Kurniawan, C Xu, S Jagtap, X Deng, K Lou, YS Soh, Y Nakahira (2021). Axon Arbor Trade-off Between Wiring Cost, Delay, and Synchronization in Neuronal Networks, 2021 55th Annual Conference on Information Sciences and Systems (CISS).
+
+14) Liu Q, Nakahira Y, Mohideen A, Dai A, Choi S, Pan A, Ho D, and Doyle J (2019). Experimental and educational platforms for studying architecture and tradeoffs in human sensorimotor control, American Control Conference (ACC).
+
+15) Liu Q, Yorie Nakahira, Zhichao Liang, Ahkeel Mohideen, Adam Dai, Sung Hoon Choi, Angelina Pan, Dimitar M. Ho, John C. Doyle, (2020). WheelCon: A Wheel Control-Based Gaming Platform for Studying Human Sensorimotor Control, Journal of Visualized Experiments (JoVE)
+
+ 
+
+方向4、多模态脑影像处理、脑网络建模（Multimodal Brain imaging; Brain network modelling）：利用EEG、SEEG、fMRI、DTI等多模态神经信号，提出多模态神经信号处理新算法，构建脑网络模型，挖掘信息在不同脑区之间流动的关系
+
+16) S Zheng, Z Liang, Y Qu, Q Wu, H Wu, & Q Liu *. (2021). Kuramoto model based analysis reveals oxytocin effects on brain network dynamics. International Journal of Neural System.
+
+17) Wu H, Feng C, Lu X, Liu X, Liu Q*, (2020). Oxytocin effects on the resting-state mentalizing brain network, Brain Imaging and Behavior
+
+18) Samogin J#, Liu Q#, Marino M, Wenderoth N, Mantini D. (2019), Shared and connection-specific intrinsic interactions in the default mode network, NeuroImage (2019) 474–481 (# equal contribution)
+
+19) Marino M#, Liu Q#, Samogin J, Tecchio F, Mantini D, Porcaro C (2019). Neuronal dynamics enable the functional differentiation of resting state networks in the human brain, Human Brain Mapping, 40(5):1445-1457. (# equal contribution)
+
+20) Liu Q, Ganzetti M, Wenderoth N, Mantini D, (2018). Detecting large-scale brain networks using EEG: impact of electrode density, head modelling and source localization, Frontiers in Neuroinformatics 12 (4)
+
+21) Liu Q, Farahibozorg S, Porcaro C, Wenderoth N and Mantini D (2017). Detecting large-scale networks in the human brain using high-density electroencephalography. Human Brain Mapping. 38 (9), 4631-4643
+
+22) Liu Q, Balsters JH, Baechinger M, van der Groen O, Wenderoth N and Mantini D (2015). Estimating a neutral reference for electroencephalographic recordings: the importance of using a high-density montage and a realistic head model. Journal of Neural Engineering 12(5): 056012.
+
+南方科技大学
+行政服务大厅 人才招聘 招标采购 就业信息 信息公开 预决算公开 校长信箱 联系我们
+广东省深圳市南山区学苑大道1088号　 电话： +86-755-88010114   邮编： 518055
+© 2018 All Rights Reserved. 粤ICP备14051456号
