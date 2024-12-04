@@ -1,5 +1,8 @@
 国内脑科学机构展示：https://neuspeech.github.io/awesome-brain-decoding/
 
+具体信息：https://neuspeech.github.io/awesome-brain-decoding/国内脑机接口研究机构及公司.md
+
+这里基本上很全，但是可能有些错误信息，欢迎大家指正。
 
 # Awesome Brain decoding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 <!-- # <p align=center>`awesome digital human`</p> -->
