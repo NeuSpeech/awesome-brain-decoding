@@ -303,6 +303,15 @@ Arxiv 2024.
 [[Code](https://github.com/weihaox/UMBRAE)]
 [[Data-NSD](https://naturalscenesdataset.org/)]
 
+
+**MindBridge: A Cross-Subject Brain Decoding Framework.**<br>
+*Shizun Wang, Songhua Liu, Zhenxiong Tan, Xinchao Wang*<br>
+CVPR 2024 Highlight.
+[[PDF](https://arxiv.org/pdf/2404.07850.pdf)]
+[[Project](https://littlepure2333.github.io/MindBridge/)]
+[[Code](https://github.com/littlepure2333/MindBridge)]
+[[Data-NSD](https://naturalscenesdataset.org/)]
+
 ## Brain-to-video
 
 **Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity.**<br>
