@@ -106,6 +106,10 @@ Arxiv 2024
 
 ### ECoG
 
+**Neuro2Semantic: A Transfer Learning Framework for Semantic Reconstruction of Continuous Language from Human Intracranial EEG**<br>
+*Siavash Shams, Richard Antonello, Gavin Mischler, Stephan Bickel, Ashesh Mehta, Nima Mesgarani.*<br>
+Interspeech 2025. [[PDF](https://arxiv.org/abs/2505.12345)] [[Code](https://github.com/siavashshams/Neuro2Semantic)]
+
 
 **High-performance brain-to-text communication via handwriting**<br>
 *Francis R. Willett, Donald T. Avansino, Leigh R. Hochberg, Jaimie M. Henderson, Krishna V. Shenoy*<br>
